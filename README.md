@@ -1,4 +1,4 @@
-addicted to learning
+I steal other's code
 
 <!---
 ih810/ih810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
